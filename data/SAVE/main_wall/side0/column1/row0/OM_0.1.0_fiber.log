@@ -1,0 +1,19 @@
+#Modify by   s 
+#Last change 2018-03-26 23:14:07.351612 
+[OM_ID]
+id = OM_0.1.0
+
+[STATUS]
+fiber0_check = 1
+fiber0_ok = 1
+fiber0_bad = 0
+fiber0_hs = 0
+fiber1_check = 1
+fiber1_ok = 1
+fiber1_bad = 0
+fiber1_hs = 0
+
+[COMMENT]
+fiber0_comment = 
+fiber1_comment = 
+

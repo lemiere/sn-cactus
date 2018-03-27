@@ -1,0 +1,14 @@
+#Modify by   Yves 
+#Last change 2018-03-27 11:07:17.098412 
+[OM_ID]
+id = OM_0.1.3
+
+[STATUS]
+hv_check = 1
+hv_ok = 1
+hv_bad = 0
+hv_hs = 0
+
+[COMMENT]
+hv_comment = 
+

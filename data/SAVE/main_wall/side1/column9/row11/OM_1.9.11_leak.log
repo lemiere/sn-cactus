@@ -1,0 +1,14 @@
+[OM_ID]
+
+id = OM_1.9.11
+
+[STATUS]
+
+leak_CHECK = 0
+leak_OK = 0
+leak_BAD = 0
+leak_HS = 0
+
+[COMMENT]
+
+leak_comment = 

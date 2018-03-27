@@ -1,0 +1,14 @@
+#Modify by   Yves 
+#Last change 2018-03-26 23:42:29.573041 
+[OM_ID]
+id = OM_0.0.0
+
+[STATUS]
+signal_check = 1
+signal_ok = 0
+signal_bad = 0
+signal_hs = 1
+
+[COMMENT]
+signal_comment = something's wrong
+

@@ -1,0 +1,20 @@
+[OM_ID]
+
+id = OM_1.16.11
+
+[STATUS]
+
+fiber0_CHECK = 0
+fiber0_OK = 0
+fiber0_BAD = 0
+fiber0_HS = 0
+
+fiber1_CHECK = 0
+fiber1_OK = 0
+fiber1_BAD = 0
+fiber1_HS = 0
+
+[COMMENT]
+
+fiber0_comment = 
+fiber1_comment = 

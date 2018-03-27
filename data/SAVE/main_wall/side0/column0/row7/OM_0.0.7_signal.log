@@ -1,0 +1,14 @@
+[OM_ID]
+
+id = OM_0.0.7
+
+[STATUS]
+
+signal_CHECK = 0
+signal_OK = 0
+signal_BAD = 0
+signal_HS = 0
+
+[COMMENT]
+
+signal_comment = 

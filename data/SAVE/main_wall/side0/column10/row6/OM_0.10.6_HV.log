@@ -1,0 +1,14 @@
+[OM_ID]
+
+id = OM_0.10.6
+
+[STATUS]
+
+HV_CHECK = 0
+HV_OK = 0
+HV_BAD = 0
+HV_HS = 0
+
+[COMMENT]
+
+HV_comment = 

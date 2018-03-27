@@ -1,0 +1,14 @@
+#Modify by   d 
+#Last change 2018-03-26 23:23:06.608332 
+[OM_ID]
+id = OM_0.1.1
+
+[STATUS]
+hv_check = 1
+hv_ok = 0
+hv_bad = 1
+hv_hs = 0
+
+[COMMENT]
+hv_comment = 
+

@@ -1,0 +1,14 @@
+# Modified by :  
+# Last change : 2018-03-27 15:34:53.371341 
+[OM_ID]
+id = OM_0.8.7
+
+[STATUS]
+leak_check = 0
+leak_ok = 0
+leak_bad = 0
+leak_hs = 0
+
+[COMMENT]
+leak_comment = 
+

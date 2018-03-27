@@ -1,0 +1,14 @@
+#Modify by    
+#Last change 2018-03-26 22:57:23.178919 
+[OM_ID]
+id = OM_0.17.10
+
+[STATUS]
+signal_check = 1
+signal_ok = 1
+signal_bad = 0
+signal_hs = 0
+
+[COMMENT]
+signal_comment = 
+
