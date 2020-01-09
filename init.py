@@ -1,7 +1,7 @@
 #!/usr/bin/python3.5
 
 # Author  : Y.Lemiere
-# Date    : 2018/02
+# Date    : 2020/01
 # Contact : lemiere@lpccaen.in2p3.fr
 # Object  : SuperNEMO OM commissioning
 
